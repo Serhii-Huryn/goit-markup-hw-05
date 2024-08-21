@@ -411,7 +411,7 @@ img {
         0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-.our_portfolio_list_item :hover .our_portfolio_text {
+.our_portfolio_list_item:hover .our_portfolio_text {
     transform: translate(0);
 }
 
